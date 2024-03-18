@@ -1,2 +1,2 @@
-# TODO: Brief introduction describing what the current project is and what skills will have
-# demonstrated once you have completed it.
+Simple recipe website made with HTML with a list of recipes in the home page.
+Each recipe link to a dedicated page with a picture of the dish, brief description, list of ingredients and step by step guide.  
